@@ -18,7 +18,7 @@
   * Architecture overview
   * [Architecture overview](development/architecture.md)
   * Common processes
-    * Git flow
+    * [Git flow](development/common-processes/git-flow.md)
   * Backend
     * Conventions
   * UI
