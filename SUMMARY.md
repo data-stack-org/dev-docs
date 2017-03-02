@@ -11,7 +11,7 @@
 * SDLC
   * Environments
   * Processes
-    * Feature flow
+    * [Feature flow](sdlc/processes/feature-flow.md)
   * Release Management
 
 * Development
@@ -31,7 +31,7 @@
   * Issue tracking processes
 
 * Project Management
-  * Team Register (Team, Capacity, Skills and Expert Areas)
-  * Communication Management
+  * [Team Register](project-management/team-register.md)
+  * [Communication](project-management/communication.md)
 
 * FAQ
