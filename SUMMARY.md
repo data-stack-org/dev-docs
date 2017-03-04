@@ -16,7 +16,7 @@
   * Release Management
 
 * Development
-  * [Architecture overview](development/architecture.md)
+  * [Architecture overview](development/architecture-overview.md)
   * Common processes
     * [Git flow](development/common-processes/git-flow.md)
   * Backend
