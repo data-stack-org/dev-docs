@@ -1,6 +1,33 @@
 # Summary
 
 * [Introduction](README.md)
-* [General Description](general-description/intro.md)
-* [Architecture](diagrams/architecture.md)
+* Project Documentation
+  * [Project Overview](project-documentation/project-overview.md)
+  * Product Requirements
+  * Diagrams
+  * Features Overview
+  * Versions
+  * [Communication](project-documentation/communication.md)
 
+* SDLC
+  * Environments
+  * Processes
+    * [Feature flow](sdlc/processes/feature-flow.md)
+  * Release Management
+
+* Development
+  * [Architecture overview](development/architecture.md)
+  * Common processes
+    * [Git flow](development/common-processes/git-flow.md)
+  * Backend
+    * Conventions
+  * UI
+    * Conventions
+  * FAQ
+
+* Quality Control
+  * Quality requirements
+  * Issue creation guidelines
+  * Issue tracking processes
+
+* FAQ
