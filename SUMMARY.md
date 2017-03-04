@@ -7,6 +7,7 @@
   * Diagrams
   * Features Overview
   * Versions
+  * [Communication](project-documentation/communication.md)
 
 * SDLC
   * Environments
@@ -28,9 +29,5 @@
   * Quality requirements
   * Issue creation guidelines
   * Issue tracking processes
-
-* Project Management
-  * [Team Register](project-management/team-register.md)
-  * [Communication](project-management/communication.md)
 
 * FAQ
