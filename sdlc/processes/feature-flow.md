@@ -8,6 +8,8 @@ Stages of working with features:
 * Planning
 * Implementation
 
+**Note:** All stages except discussion with a team can be made(or even skipped) by a single developer.
+
 Every feature must:
 
 * Have a description on a separate page

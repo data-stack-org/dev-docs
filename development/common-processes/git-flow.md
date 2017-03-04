@@ -4,16 +4,16 @@ We use simple [git-flow](http://nvie.com/posts/a-successful-git-branching-model/
 
 ## Branches
 
-Instead of a single master branch, this workflow uses two branches to record the history of the project. The master branch stores the official release history, and the develop branch serves as an integration branch for features.
+Instead of a single master branch, this workflow uses two branches to record the history of the project: `master` and `development`. The master branch stores the official release history, and the develop branch serves as an integration branch for features.
 
 ## Feature implementation
 
-For every task developer makes, he must to:
+While working on a task, make sure that you follow these rules:
 
-* Create feature branch from a `develop` branch
-* Branch name is equal to the feature name, but has `feature/` prefix;
-* One branch is equal to only one feature;
-* Assign stakeholders to the pull-request.
+* New feature (`bugfix`, `hotfix`, etc) branch is created from a `develop` branch;
+* Branch name is the same as feature name and has `feature/` prefix. For example, branch for *"Add navigation sidebar"* feature will be named as `feature/add-navigation-sidebar`;
+* One feature can have only one branch related to it;
+* Assign stakeholders to the Pull request.
 
 ## Pull request
 
@@ -39,7 +39,7 @@ How to ensure that your code is ready for review:
 
 * It is stable (no failures, no simple/stupid bugs);
 * It meets requirements of your task;
-* All linters(PEP, FLAKE, ESLINT, SASSLINT, etc.) and tests passed.
+* All linters (PEP, FLAKE, ESLINT, SASSLINT, etc.) and tests passed.
 
 When you create a new pull request, add at least 3 team stakeholders as reviewers.
 

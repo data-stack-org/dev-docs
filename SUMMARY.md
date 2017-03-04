@@ -5,7 +5,7 @@
   * [Project Overview](project-documentation/project-overview.md)
   * Product Requirements
   * Diagrams
-  * Features overview
+  * Features Overview
   * Versions
 
 * SDLC
@@ -15,7 +15,6 @@
   * Release Management
 
 * Development
-  * Architecture overview
   * [Architecture overview](development/architecture.md)
   * Common processes
     * [Git flow](development/common-processes/git-flow.md)
