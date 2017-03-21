@@ -4,7 +4,7 @@
 * Project Documentation
   * [Project Overview](project-documentation/project-overview.md)
   * Product Requirements
-  * Diagrams
+  * [Diagrams](project-documentation/diagrams.md)
   * Features Overview
   * Versions
   * [Communication](project-documentation/communication.md)
